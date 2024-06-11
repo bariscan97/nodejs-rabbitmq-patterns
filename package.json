@@ -1,0 +1,11 @@
+{
+  "name": "node-rabbitmq",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "@types/amqplib": "^0.10.5",
+    "@types/node": "^20.11.28",
+    "amqplib": "^0.10.3",
+    "typescript": "^5.4.2"
+  }
+}
